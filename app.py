@@ -1,6 +1,9 @@
 print('This is desmond Onam')
 
+# this is for drawing a dog
 print('0----')
 print('  ||||')
 
-print('*'*10)
+# string to draw series
+print('*'*10)  # this is an expression
+
