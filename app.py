@@ -7,3 +7,5 @@ print('  ||||')
 # string to draw series
 print('*'*10)  # this is an expression
 
+# variables 
+price = 10
