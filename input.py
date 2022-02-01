@@ -1,4 +1,4 @@
-'''
+
 name = input('what is your name? ')
 # print('Hi '+ name) # this is concatination
 
@@ -33,19 +33,19 @@ print( kg + ' kilograms')
 
 course = 'python Course for beginners' 
 # strings used esp in emails
-'''
 
-# course = '''
-# Hi Desmond,
-# this is our first mail to you
-# Thank you for being a valued member
-# '''
-# print(course)
 
+course = '''
+Hi Desmond,
+this is our first mail to you
+Thank you for being a valued member
 '''
+print(course)
+
+
 name = 'Jennifer'
 print(name[1:-1])
-'''
+
 
 ### formatted string
 
