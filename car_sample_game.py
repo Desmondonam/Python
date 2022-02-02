@@ -17,5 +17,5 @@ while comand != 'quit':
         quit - to quit
         ''')
     else:
-        print('Sorry I do not understand that!.')
+        print('Sorry I do not understand that!')
 
